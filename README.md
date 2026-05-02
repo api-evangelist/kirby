@@ -1,11 +1,17 @@
-# Kirby
+# Kirby (kirby)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Kirby.
+For over a century, Kirby has set the standard in high-performance home cleaning. From powerful vacuums to versatile floor care systems, Kirby delivers!
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/kirby/refs/heads/main/apis.yml)
+
+## Timestamps
+
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented for Kirby. This repository tracks the company as a reference and will be updated if API resources become available.
 
-## Properties
+## Common Properties
 
 - [Website](https://www.kirby.com)
