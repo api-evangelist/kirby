@@ -1,7 +1,9 @@
 ---
 title: New system to allow artificial intelligence clinical trials ...
 url: https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(25)00597-2/abstract
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kirby" press release artificial intelligence'
 position: 4
 source: serpapi-google

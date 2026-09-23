@@ -1,7 +1,9 @@
 ---
 title: 'United Airlines CEO: ''We''re probably doing more AI than ...'
 url: https://www.ciodive.com/news/united-airlines-ceo-AI-use-cases/749563/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kirby" press release artificial intelligence'
 position: 1
 source: serpapi-google

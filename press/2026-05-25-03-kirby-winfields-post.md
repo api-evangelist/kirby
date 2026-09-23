@@ -1,7 +1,9 @@
 ---
 title: Kirby Winfield's Post
 url: https://www.linkedin.com/posts/winfield_terrabyte-raises-the-curtain-on-its-campaign-activity-7462613707970359296-aoJ9
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kirby" press release artificial intelligence'
 position: 3
 source: serpapi-google

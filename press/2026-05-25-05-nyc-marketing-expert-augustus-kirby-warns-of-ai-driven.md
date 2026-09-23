@@ -1,7 +1,9 @@
 ---
 title: NYC Marketing Expert Augustus Kirby Warns of AI-Driven ...
 url: https://www.24-7pressrelease.com/press-release/530195/nyc-marketing-expert-augustus-kirby-warns-of-ai-driven-algorithm-volatility-and-the-need-for-human-oversight
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Kirby" press release artificial intelligence'
 position: 5
 source: serpapi-google
