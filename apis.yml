@@ -28,9 +28,11 @@ tags:
   - Fortune 1000
 url: 
   https://raw.githubusercontent.com/api-evangelist/kirby/refs/heads/main/apis.yml
-modified: '2026-04-28'
+modified: '2026-10-06'
 apis: []
 common:
+  - url: https://news.kirby.com/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/kirby-domain-security.yml
   - type: GitHubOrganization
